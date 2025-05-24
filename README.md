@@ -6,6 +6,8 @@ This neovim configuration uses only 100 lines for
 - Catppuccin color scheme
 - Lualine status line
 
+It requires at least Neovim 0.11. 
+
 ## The config
 ``` lua
 function pkg_add(repo_owner, repo_name)
